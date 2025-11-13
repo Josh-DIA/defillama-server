@@ -5645,6 +5645,11 @@ const data4: Protocol[] = [
         type: "Primary",
         proof: ["https://github.com/DefiLlama/DefiLlama-Adapters/pull/13523"],
       },
+      {
+        name: "DIA",
+        type: "Primary",
+        proof: ["Add source here"]
+      },
     ],
     forkedFrom: [],
     module: "king/index.js",
